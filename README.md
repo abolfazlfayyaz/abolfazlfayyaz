@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**abolfazlfayyaz/abolfazlfayyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Abolfazl
+I'm a developer interested in **Python**, **C++**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [python-projects](https://github.com/abolfazlfayyaz/python-projects)
+- [cpp-projects](https://github.com/abolfazlfayyaz/cpp-projects)
+- [ml-projects](https://github.com/abolfazlfayyaz/ml-projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Currently learning
+- Deep Learning fundamentals
+- Writing efficient C++ code
+
 -->
