@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # I'm Abolfazl
 I'm a developer interested in **Python**, **C++**, and **Machine Learning**.
 
@@ -13,4 +12,3 @@ I'm a developer interested in **Python**, **C++**, and **Machine Learning**.
 - Deep Learning fundamentals
 - Writing efficient C++ code
 
--->
