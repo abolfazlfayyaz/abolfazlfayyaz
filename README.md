@@ -7,7 +7,7 @@ I'm a developer interested in **Python**, **C++**, and **Machine Learning**.
 - [python-projects](https://github.com/abolfazlfayyaz/python-projects)
 - [cpp-projects](https://github.com/abolfazlfayyaz/cpp-projects)
 - [ml-projects](https://github.com/abolfazlfayyaz/ml-projects)
-
+- [top-movie-streaming](https://github.com/abolfazlfayyaz/top-movie-streaming)
 ## 🌱 Currently learning
 - Deep Learning fundamentals
 - Writing efficient C++ code
